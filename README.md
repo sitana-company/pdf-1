@@ -5,7 +5,7 @@ Example of PDF file generation using the Netuno Platform.
 Tutorial video in portuguese:
 
 <a href="http://www.youtube.com/watch?v=OyUzHr9hi0c" target="_blank" title="Geração de PDFs no Backend JS - API REST - Parte 1">
- <img src="https://raw.githubusercontent.com/sitana-company/pdf-1/main/docs/video.jpg" alt="Tutorial Video" width="320" height="180" />
+ <img src="https://raw.githubusercontent.com/sitana-company/pdf_1/main/docs/video.jpg" alt="Tutorial Video" width="320" height="180" />
 </a>
 
 Here is the main code file:
@@ -21,7 +21,7 @@ Here are the services source codes::
 ## Automatic Application Install
 
 ```
-./netuno app github=sitana-company/pdf-1
+./netuno app github=sitana-company/pdf_1
 ```
 
 ### Running
