@@ -18,6 +18,10 @@ Here are the services source codes::
 - [server/services/pdf/app/get.js](server/services/pdf/app/get.js)
 - [server/services/pdf/storage/server/get.js](server/services/pdf/storage/server/get.js)
 
+Documentation:
+
+- [https://doc.netuno.org/pt/docs/academy/server/services/pdf](PDF resource.)
+
 ## Automatic Application Install
 
 ```
