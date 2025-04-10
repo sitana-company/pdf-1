@@ -1,0 +1,77 @@
+{
+  "name": "pdf_1",
+  "description": "Example of PDF file generation using the Netuno Platform.",
+  "type": "app",
+  "config": {
+    "development": {
+      "commands": [{
+        "command": "npm run watch",
+        "enabled": false,
+        "install": "npm install --force",
+        "path": "ui"
+      }],
+      "cors": [{
+        "enabled": true,
+        "origins": ["*"]
+      }],
+      "cron": {"jobs": []},
+      "db": {"default": {
+        "engine": "h2",
+        "host": "",
+        "name": "pdf",
+        "password": "",
+        "port": "",
+        "username": "sa"
+      }},
+      "language": "pt_BR",
+      "locale": "pt_BR",
+      "name": "pdf_1",
+      "remote": {},
+      "settings": {"public": {}},
+      "setup": {
+        "enabled": true,
+        "schema": {
+          "auto_create": true,
+          "execution": true
+        },
+        "scripts": {"execution": true}
+      },
+      "smtp": {}
+    },
+    "production": {
+      "commands": [{
+        "command": "npm run watch",
+        "enabled": false,
+        "install": "npm install --force",
+        "path": "ui"
+      }],
+      "cors": [{
+        "enabled": true,
+        "origins": ["*"]
+      }],
+      "cron": {"jobs": []},
+      "db": {"default": {
+        "engine": "h2",
+        "host": "",
+        "name": "pdf",
+        "password": "",
+        "port": "",
+        "username": "sa"
+      }},
+      "language": "pt_BR",
+      "locale": "pt_BR",
+      "name": "pdf_1",
+      "remote": {},
+      "settings": {"public": {}},
+      "setup": {
+        "enabled": true,
+        "schema": {
+          "auto_create": true,
+          "execution": true
+        },
+        "scripts": {"execution": true}
+      },
+      "smtp": {}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server modules dependencies.",
+  "author": "netuno.org",
+  "license": "ISC",
+  "dependencies": {
+    "@netuno/server-types": "^1.1.0",
+    "server": "file:"
+  }
+}
