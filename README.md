@@ -2,7 +2,11 @@
 
 Example of PDF file generation using the Netuno Platform.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/OyUzHr9hi0c/0.jpg)](http://www.youtube.com/watch?v=OyUzHr9hi0c "Geração de PDFs no Backend JS - API REST - Parte 1")
+Tutorial video in portuguese:
+
+<a href="http://www.youtube.com/watch?v=OyUzHr9hi0c" target="_blank" title="Geração de PDFs no Backend JS - API REST - Parte 1">
+ <img src="http://img.youtube.com/vi/OyUzHr9hi0c/mqdefault.jpg" alt="Tutorial Video" width="240" height="180" />
+</a>
 
 Here is the main code file:
 
