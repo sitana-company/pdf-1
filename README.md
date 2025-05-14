@@ -12,7 +12,7 @@ Here is the main code file:
 
 - [server/core/pdf/builder.js](server/core/pdf/builder.js)
 
-Here are the services source codes::
+Here are the services source codes:
 
 - [server/services/pdf/get.js](server/services/pdf/get.js)
 - [server/services/pdf/app/get.js](server/services/pdf/app/get.js)
